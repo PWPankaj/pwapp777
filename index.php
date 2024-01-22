@@ -4,5 +4,6 @@
     <?php
     echo "<h1>This is Web App 1 created running on azure app services</h1>";
     ?>
-  </body>
+<a href="about.php">About US</a>
+</body>
 </html>
